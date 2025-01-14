@@ -1,4 +1,4 @@
-# Mystery Langauges
+# Mystery Languages
 
 [Arithmetic](arith/)
 
