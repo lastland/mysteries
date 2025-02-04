@@ -4,3 +4,4 @@
 
 [Conditionals](cond/)
 
+[Functions](func/)
