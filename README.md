@@ -5,3 +5,5 @@
 [Conditionals](cond/)
 
 [Functions](func/)
+
+[Arrays](array/)
